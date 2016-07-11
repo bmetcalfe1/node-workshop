@@ -9,9 +9,8 @@
 
 //A wild interval has appeared!
 
-function timeFunc(){
-        console.log('Hello World!');
-        setTimeout(timeFunc, 10000);
-}
-
-timeFunc();
+// function timeFunc(){
+//         console.log('Hello World!');
+//         setTimeout(timeFunc, 10000);
+// }
+// timeFunc();
